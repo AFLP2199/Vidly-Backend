@@ -1,0 +1,96 @@
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T03:23:29.560Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T03:44:48.964Z"}
+error: info {"timestamp":"2021-11-17T03:46:19.553Z"}
+error: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T03:46:58.641Z"}
+error: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T03:47:35.271Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T04:01:28.817Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T04:03:40.426Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T04:11:24.003Z"}
+error: Could not get the genres {"timestamp":"2021-11-17T04:11:36.731Z"}
+info: Server up and running on PORT : 3000
+error: Could not get the genres
+info: Server up and running on PORT : 3000
+info: Server up and running on PORT : 3000
+error: Could not get the genres
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T04:20:19.861Z"}
+error: Something failed during startup. Something failed during startup. {"stack":"Error: Something failed during startup.\n    at Object.<anonymous> (C:\\Users\\Agustin\\Documents\\Ejercicios Javascript\\vidly\\app.js:28:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","timestamp":"2021-11-17T04:26:14.578Z"}
+error: Something failed during startup. {"timestamp":"2021-11-17T04:26:58.455Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T04:33:48.098Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-17T04:39:05.633Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-27T19:52:10.228Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-27T20:12:19.573Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-27T20:12:39.674Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-27T20:13:20.873Z"}
+error: Could not get the genres {"timestamp":"2021-11-27T21:46:13.520Z"}
+error: Could not get the genres {"timestamp":"2021-11-27T21:46:16.681Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T02:41:06.155Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:41:44.201Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:42:12.579Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:42:53.730Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:45:04.091Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:45:13.045Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:46:01.390Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T02:46:09.847Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:05:46.978Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:06:24.936Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:26:31.113Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:26:38.427Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:26:47.501Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:27:56.096Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:30:33.087Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:30:50.833Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:32:03.961Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:32:16.784Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:33:06.629Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:34:13.926Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:34:19.275Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:34:24.800Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:35:10.957Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:35:14.427Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:35:44.169Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:35:47.467Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:36:11.465Z"}
+info: Server up and running on PORT : 3000 {"timestamp":"2021-11-28T20:37:41.371Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:37:54.089Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:37:54.983Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:37:55.558Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T20:39:56.647Z"}
+error: Could not get the genres {"timestamp":"2021-11-28T20:40:09.478Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T20:45:55.435Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T20:46:59.854Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T20:48:54.834Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T20:54:59.427Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:10:02.857Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:13:20.589Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:16:27.960Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:17:16.768Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:47:25.023Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:52:05.076Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:57:36.967Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T21:59:52.129Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:02:21.283Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:06:29.717Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:08:45.898Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:10:53.421Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:11:46.805Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:13:37.744Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:14:07.023Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:15:19.268Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:16:51.949Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-28T22:18:06.996Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-29T16:56:30.053Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-29T19:03:37.467Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-29T22:07:42.763Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T00:59:48.580Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T01:26:33.262Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T01:45:46.712Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T01:50:23.933Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T14:51:53.905Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T18:48:00.029Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T18:58:49.198Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T19:07:17.297Z"}
+error: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "Movies" {"timestamp":"2021-11-30T19:52:41.872Z"}
+error: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "Movies" {"timestamp":"2021-11-30T19:53:29.661Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-11-30T22:11:48.604Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-12-01T20:35:55.842Z"}
+info: Server up and running on PORT : 3900 {"timestamp":"2021-12-02T14:31:07.619Z"}
